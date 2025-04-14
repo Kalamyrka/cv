@@ -1,0 +1,97 @@
+.dark_grey {
+    color: darkgrey;
+}
+
+.white {
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+.teal {
+    color: #fff !important;
+    background-color: #009688 !important;
+}
+
+.text_grey {
+    color: #757575 !important;
+}
+
+.text_black {
+    color: #000 !important;
+}
+
+.text_teal {
+    color: #009688 !important;
+}
+
+.padding_16 {
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}
+
+.margin_top {
+    margin-top: 16px !important;
+}
+.margin_bottom {
+    margin-bottom: 16px !important;
+}
+
+.margin_right {
+    margin-right: 16px !important;
+}
+
+.container {
+    padding: 0.01em 16px;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+}
+
+.large {
+    font-size: 18px !important;
+}
+
+.xxlarge {
+    font-size: 36px !important;
+}
+
+.row_padding {
+    padding: 0 8px;
+    display: table;
+    clear: both;
+}
+
+.left_col {
+    float: left;
+    width: 40%;
+    padding-left: 2px;
+}
+
+.card_4 {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.display_container {
+    position: relative;
+}
+
+.right_col {
+    float: right;
+    width: 58%;
+    padding-left: 8px;
+}
+
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.opacity {
+    opacity: 0.6;
+}
+
+.center {
+    text-align: center;
+}
